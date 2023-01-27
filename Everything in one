@@ -1,3 +1,6 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/LuaKingLord/SnipingBot/main/GGUI'))()
+wait(5)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/LuaKingLord/MainScripdoes/main/Everything%20in%20one'))()
+wait(5)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/LuaKingLord/SnipingBot/main/Main'))()
+
