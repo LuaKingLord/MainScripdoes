@@ -1,4 +1,3 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/LuaKingLord/SnipingBot/main/GGUI'))()
-wait(10)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/LuaKingLord/SnipingBot/main/Main'))()
-
+wait(0.80000)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/LuaKingLord/SnipingBot/main/GGUI'))()
